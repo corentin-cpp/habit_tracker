@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284071977650",
+    "project_id": "hobbies-task",
+    "storage_bucket": "hobbies-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284071977650:android:2215dce5890fd1cd3ddfab",
+        "android_client_info": {
+          "package_name": "com.example.hobies_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0Yeuw3ALf4Kv1DftmIAqPYP-XUCyot8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
